@@ -32,7 +32,7 @@ __There are many, many more that I could add to this list however it would becom
 Skill | Competence | Extra Notes
 ----- | ---------- | -----------
 SQL | 60% | I really dislike SQL...
-Redis | 50% | It has its use cases but yet again I dislike Redis.
+Redis | 70% | Amazing for pub/sub, I love it!
 MongoDB | 80% | I pretty much use this where possible and if doing so doesn't overengineer a project.
 Spring | 80% | I've spent a large amount of time learning Spring for web applications and love using it.
 Linux | 80% | I'd pick CentOS or RockyLinux over any other distro any day of the week.
